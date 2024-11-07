@@ -1,7 +1,5 @@
 ## Cara Kerja Login
 
-Fitur login dalam aplikasi ini menggunakan Angular dan Ionic untuk membuat interaksi dengan API serta penyimpanan token autentikasi menggunakan `Preferences` dari Capacitor. Berikut adalah langkah-langkah utama dalam proses login:
-
 1. **Konfigurasi Module Utama**
    - Pada `app/app.module.ts`, aplikasi diatur untuk menyediakan `provideHttpClient` agar dapat melakukan komunikasi HTTP ke API.
 
