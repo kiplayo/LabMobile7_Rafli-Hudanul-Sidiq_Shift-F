@@ -1,5 +1,3 @@
-Berikut adalah penjelasan tentang cara kerja fitur login pada aplikasi Ionic yang menggunakan Angular:
-
 ## Cara Kerja Login
 
 Fitur login dalam aplikasi ini menggunakan Angular dan Ionic untuk membuat interaksi dengan API serta penyimpanan token autentikasi menggunakan `Preferences` dari Capacitor. Berikut adalah langkah-langkah utama dalam proses login:
